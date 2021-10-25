@@ -147,7 +147,7 @@ let config = {
 					 'value': '#008000'
 				   },
 				   filePath: {
-					   'value': 'peddiemenu.txt'
+					   'value': 'athleticsevent.txt'
 				   }
 			   }
 	   },
